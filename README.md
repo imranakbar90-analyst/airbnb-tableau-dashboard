@@ -26,7 +26,7 @@ The dashboard was created as a hands-on learning project inspired by Alexander F
 - Dashboard layout and UX best practices
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Screenshot 2026-01-05 002000.jpg)
+![Dashboard Preview](Screenshot.jpg)
 
 ## 📌 Inspiration & Credit
 This project is inspired by the following Tableau Public dashboard:
