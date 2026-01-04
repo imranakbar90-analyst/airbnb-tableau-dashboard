@@ -41,5 +41,3 @@ Imran Akbar — AML & IT Project Management Professional
 Passionate about leveraging data and automation to strengthen AML frameworks.
 🌐 LinkedIn
 www.linkedin.com/in/mr-imran-akbar
-LinkedIn: https://www.linkedin.com/in/your-profile  
-GitHub: https://github.com/your-username
